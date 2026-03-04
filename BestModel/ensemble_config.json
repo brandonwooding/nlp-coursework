@@ -1,0 +1,1 @@
+{"weights": {"baseline": 0.19928222535775245, "soft": 0.19928222535775245, "multi": 0.19590879583758988, "ordinal": 0.20225184802240878, "deberta": 0.20327490542449647}, "threshold": 0.3000000000000001, "models": ["baseline_roberta", "weighted_roberta", "soft_roberta", "multi_task_roberta", "ordinal_roberta", "deberta"]}
